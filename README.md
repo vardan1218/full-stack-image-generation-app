@@ -1,7 +1,7 @@
 # full-stack-image-generation-app
 
-To start the frontend of the application go to the frontend folder of the application and run - npm run dev
-To start the backend of the application go to the backend folder of the application and run - npm start 
+To start the frontend of the application go to the frontend folder of the application and run - npm run dev in the terminal
+To start the backend of the application go to the backend folder of the application and run - npm start in the terminal
 Authenticate yourself by signing up
 
 
